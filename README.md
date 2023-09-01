@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning **Javascript, C#, SASS, Design Systems**
+- 🌱 I’m currently learning **Javascript, C#, , .Net,SASS, Design Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rhoheavy](https://github.com/rhoheavy)
 
-- 💬 Ask me about **Design, UX and UI, HTML, CSS, Frontend**
+- 💬 Ask me about **Design, UX and UI, HTML, CSS, Frontend, Databases, Backend**
 
 - 📫 How to reach me **rhynthelost@gmail.com**
 
