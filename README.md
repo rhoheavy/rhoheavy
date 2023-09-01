@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤓, I'm Rena Salazar</h1>
-<h3 align="center">I am an IT project manager with comprehensive software development and design knowledge. I have experience leading projects in the IT area to contribute to productivity and achieve strategic goals of companies and organizations.</h3>
+<h3 align="center">I am an Software Engineer with comprehensive software development and design knowledge. I have experience leading projects in the IT area to contribute to productivity and achieve strategic goals of companies and organizations.</h3>
 
 
 
